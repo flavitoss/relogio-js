@@ -115,3 +115,7 @@ main{
     background-color: red;
     position: absolute;
 }
+audio{
+    position: absolute;
+    right: 40%;
+}
